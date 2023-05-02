@@ -49,3 +49,31 @@
 #color-row {
     background-color: #b1e5f2;
 }
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+h3 {
+    color: grey;
+    margin-bottom: 8px;
+}
+
+#monitor {
+    background-image: url(./img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+}
+
+#graph {
+    background-image: url(./img/graph.jpg);
+    width: 312px;
+    height: 208px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
